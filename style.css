@@ -1,0 +1,129 @@
+.div1{
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: grey;
+    animation-name: change;
+    animation-duration: 3s;
+}
+
+@keyframes change {
+    0% { width:250px;}
+
+    100% { width:1100px;}
+}
+.div2{
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    top: 100px;
+    right: 0%;
+    background-color: rgb(77, 75, 75);
+    animation-name: change;
+    animation-duration: 3s; 
+    animation-delay: 3s; 
+}
+@keyframes change {
+    0% { width:250px;}
+
+    100% { width:1100px;}
+}
+.div3{
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    top: 200px;
+    left: 0;
+    background-color: rgb(167, 164, 164);
+    animation-name: change;
+    animation-duration: 3s; 
+    animation-delay: 6s; 
+}
+@keyframes change {
+    0% { width:250px;}
+
+    100% { width:1100px;}
+}
+.div4{
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    top: 300px;
+    right: 0;
+    background-color: rgb(214, 208, 208);
+    animation-name: change;
+    animation-duration: 3s; 
+    animation-delay: 9px; 
+}
+@keyframes change {
+    0% { width:250px;}
+
+    100% { width:1100px;}
+}
+.div5{
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    top: 400px;
+    left: 0;
+    background-color: rgb(223, 215, 215);
+    animation-name: change;
+    animation-duration: 3s; 
+    animation-delay: 12s; 
+}
+@keyframes change {
+    0% { width:250px;}
+
+    100% { width:1100px;}
+}
+
+.div6{
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    top: 500px;
+    right: 0;
+    background-color: rgb(204, 188, 188);
+    animation-name: change;
+    animation-duration: 3s; 
+    animation-delay: 15s; 
+}
+@keyframes change {
+    0% { width:250px;}
+
+    100% { width:1100px;}
+}
+.div7{
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    top: 600px;
+    left: 0;
+    background-color: rgb(161, 138, 138);
+    animation-name: change;
+    animation-duration: 3s; 
+    animation-delay: 18s; 
+}
+@keyframes change {
+    0% { width:250px;}
+
+    100% { width:1100px;}
+}
+.div8{
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    top: 700px;
+    right: 0;
+    background-color: rgb(126, 109, 109);
+    animation-name: change;
+    animation-duration: 3s; 
+    animation-delay: 25s; 
+}
+@keyframes change {
+    0% { width:250px;}
+
+    100% { width:1100px;}
+}
